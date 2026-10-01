@@ -1,6 +1,6 @@
-# ⚡ DataTalent Radar - Interactive Dark Theme Dashboard
+# ⚡ DataTalent Radar - Interactive Dashboard
 
-An interactive, high-performance Streamlit dashboard engineered with an ultramodern dark theme to analyze, explore, and track **41,633+ companies actively hiring for Data & AI roles**.
+An interactive, high-performance Streamlit dashboard to analyze, explore, and track **41,633+ companies actively hiring for Data & AI roles**.
 
 ---
 
